@@ -1,2 +1,6 @@
 .idea/
 hello.iml
+node_modules/
+npm-debug.log
+build/
+.eslintcache
