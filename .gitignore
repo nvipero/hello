@@ -1,5 +1,7 @@
 .idea/
-hello.iml
+build/
 node_modules/
+hello.iml
 npm-debug.log
 .eslintcache
+stats.json
